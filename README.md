@@ -11,6 +11,7 @@ The Online Quiz System caters to two main user types: **Admin/Instructor** and *
 - View analytics and performance reports.
 - Manage user accounts.
 - Monitor quiz sessions.
+- Generate Quiz Code. 
 - Set time limits for quizzes.
 
 ### Participant/Student Features:
@@ -20,7 +21,7 @@ The Online Quiz System caters to two main user types: **Admin/Instructor** and *
 - Receive immediate feedback on answers.
 - View final scores and detailed performance analytics.
 - Access historical performance records.
-- Search for specific quizzes.
+- Search for specific quizzes/By Entering Code.
 
 ## 2.4 Operating Environment
 
