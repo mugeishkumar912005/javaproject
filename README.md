@@ -14,6 +14,11 @@ The Online Quiz System caters to two main user types: **Admin/Instructor** and *
 - Generate Quiz Code. 
 - Set time limits for quizzes.
 
+
+- Set Continues streak maintain favours.
+
+
+
 ### Participant/Student Features:
 - View available quizzes.
 - Select a quiz to attempt.
